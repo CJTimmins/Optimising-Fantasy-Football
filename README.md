@@ -1,1 +1,2 @@
 # Optimising Fantasy Football
+This project finds the optimal team for fantasy football, given a set of contraints, using an evolutionary algorithm. The report details the approach taken and the experiments run to evaluate the solution.
